@@ -1,0 +1,22 @@
+{
+  "name": "codice-sconto-1000farmacie",
+  "version": "1.0.0",
+  "description": "Recupero automatico di codici sconto 1000Farmacie da shopilo.it",
+  "main": "index.js",
+  "keywords": [
+    "codice-sconto",
+    "codice-sconto-1000farmacie",
+    "voucher-1000farmacie",
+    "coupon-1000farmacie",
+    "sconti",
+    "shopilo",
+    "coupon"
+  ],
+  "author": "shopilo-it",
+  "license": "MIT",
+  "homepage": "https://shopilo.it/negozi/1000farmacie.it",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-it/codice-sconto-1000farmacie.git"
+  }
+}
